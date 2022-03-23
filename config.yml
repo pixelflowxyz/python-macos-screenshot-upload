@@ -1,0 +1,10 @@
+---
+creds:
+  B2_KEY_ID: ""
+  B2_KEY: ""
+
+settings:
+  BUCKET: "bucket-name"
+  SCREENSHOTS: "/Users/User/Documents/Screenshots/"
+  B2_URL: "https://backblaze-domain/file/bucket-name/"
+  FILENAME_SETTINGS: "numbers"
